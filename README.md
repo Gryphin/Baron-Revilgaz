@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
   </a>
   <a href="https://crowdin.com/project/Red-discordbot">
-    <img src="https://d322cqt584bo4o.cloudfront.net/Baron Revilgaz-discordbot/localized.svg" alt="Localized with Crowdin">
+    <img src="https://d322cqt584bo4o.cloudfront.net/red-discordbot/localized.svg" alt="Localized with Crowdin">
   </a>
 </p>
 
