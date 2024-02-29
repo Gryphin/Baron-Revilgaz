@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
+  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://wow.zamimg.com/uploads/screenshots/normal/28422-baron-revilgaz-old-model.jpg" alt="Red - Discord Bot"></a>
   <br>
   Baron Revilgaz Bot
   <br>
