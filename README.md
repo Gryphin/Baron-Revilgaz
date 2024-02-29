@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/Cog-Creators/Red-Discordbot/tests.yml?label=tests" alt="GitHub Actions">
   </a>
   <a href="http://docs.discord.Baron Revilgaz/en/stable/?badge=stable">
-    <img src="https://readthedocs.org/projects/Baron Revilgaz-discordbot/badge/?version=stable" alt="Baron Revilgaz on readthedocs.org">
+    <img src="https://readthedocs.org/projects/red-discordbot/badge/?version=stable" alt="Baron Revilgaz on readthedocs.org">
   </a>
   <a href="https://github.com/psf/black">
     <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code Style: Black">
